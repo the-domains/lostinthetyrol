@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T18:42:01.047Z'
-dateModified: '2016-01-07T18:15:29.266Z'
+datePublished: '2016-01-07T19:09:35.112Z'
+dateModified: '2016-01-07T19:09:33.034Z'
 title: rifugio
 author: []
 sourcePath: _posts/2016-01-06-innsbruck-among-europes-ten-hottest-destinations-for-2013.md
