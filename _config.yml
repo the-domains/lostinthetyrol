@@ -1,7 +1,7 @@
 name: lostinthetyrol
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.11997
+typography_spectrum: 0
 title: Lost in the Tyrol
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fefefe'
+    - '#084f00'
+    - '#afbea6'
+    - '#808000'
+    - '#80aa55'
   brandStrength: 0
   lightness: 1
   saturation: 1
