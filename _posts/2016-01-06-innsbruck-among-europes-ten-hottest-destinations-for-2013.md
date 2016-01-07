@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T20:42:31.947Z'
-dateModified: '2016-01-06T20:42:09.155Z'
-title: "INNSBRUCK among 'Europe's TEN HOTTEST DESTINATIONS for 2013.' Woohoo!"
+datePublished: '2016-01-07T18:42:01.047Z'
+dateModified: '2016-01-07T18:15:29.266Z'
+title: rifugio
 author: []
 sourcePath: _posts/2016-01-06-innsbruck-among-europes-ten-hottest-destinations-for-2013.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: innsbruck-among-europes-ten-hottest-destinations-for-2013/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fdfb8538401ff5996e8b4b58ffe48be1b57e125.jpg)
