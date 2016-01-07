@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[lostinthetyrol]]></title>
         <description><![CDATA[lostinthetyrol]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lostinthetyrol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 17:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 18:00:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lostinthetyrol/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Innsbruck: una visita allo zoo alpino]]></title>
+            <description><![CDATA[<article><h1>Innsbruck: una visita allo zoo alpino</h1><p>Una lontra Nessun altro zoo al mondo vanta una raccolta altrettanto rappresentativa della fauna alpina come il celebre Alpenzoo: sito ad Innsbruck, alle pendici dei monti della Nordkette, questo luogo meraviglioso offre un panorama mozzafiato sulle montagne che abbracciano il capoluogo del Tirolo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1edc74ef1f23ed73aa33c58b39feba72ca993acf.jpg"></article>]]></description>
+            <link>http://www.lastampa.it/2015/05/17/societa/montagna/a-misura-di-bambino/innsbruck-una-visita-allo-zoo-alpino-fXWnRJXmbBZkbv8uaKopHO/pagina.html</link>
+            <guid isPermaLink="false">61a2cdc6-bc9c-4816-8a49-0736eaa4569e</guid>
+            <pubDate>Thu, 07 Jan 2016 18:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Austria, un salto tra le nuvole: il volo sugli sci a Innsbruck]]></title>
             <description><![CDATA[<article><h1>Austria, un salto tra le nuvole: il volo sugli sci a Innsbruck</h1><p>Un volo spettacolare nelle bianche cime di Innsbruck, in Austria. E' la terza tappa del Torneo dei 4 Trampolini 2016, il più importante appuntamento</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0c0f986c06df22e61225b6256386da865c853f6.jpg"></article>]]></description>
