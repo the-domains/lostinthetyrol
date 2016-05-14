@@ -1,20 +1,8 @@
-title: Lost in the Tyrol
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 1
-favicon: null
 name: lostinthetyrol
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.07575
+title: Lost in the Tyrol
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  saturation: 1
   brandColors:
     - '#fefefe'
     - '#084f00'
     - '#afbea6'
     - '#808000'
     - '#80aa55'
+  brandStrength: 0
   lightness: 1
+  saturation: 1
   rhythmicContrast: 0
-typography_spectrum: 0.07575
+purpose: []
