@@ -1,16 +1,16 @@
 title: Lost in the Tyrol
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0
+layout_spectrum: 1
 favicon: null
 name: lostinthetyrol
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
